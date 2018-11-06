@@ -51,7 +51,7 @@
  {"repo": "mysql", "version": "3.0.2", "module": "MySQL"},
  {"repo": "mysql", "version": "latest", "module": "MySQL"},
  {"repo": "postgresql", "version": "1.0.2", "module": "PostgreSQL"},
- {"repo": "postgresql", "version": "1.1.1", "module": "PostgreSQL"},
+ {"repo": "postgresql", "version": "1.1.2", "module": "PostgreSQL"},
  {"repo": "postgresql", "version": "latest", "module": "PostgreSQL"},
  {"repo": "redis", "version": "3.0.2", "module": "Redis"},
  {"repo": "redis", "version": "latest", "module": "Redis"},
